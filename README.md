@@ -13,7 +13,7 @@
 ## How to use
 1. rename this as app_template
 2. create a db from data/user.sql [app_template_db]
-3. Login
+3. login
    1. admin|admin
    2. user|user
    
