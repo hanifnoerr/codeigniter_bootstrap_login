@@ -2,7 +2,7 @@
  Multi Level User Login using CodeIgniter and Bootstrap
  
 ## Preview
-> Available Role : admin and user. 
+> Available Role : admin and user
 
 ![Image of Login_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_login.png)
 
