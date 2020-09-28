@@ -6,7 +6,7 @@
 
 ![Image of Login_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_login.png)
 
-> Different view and menu based on role (localhost/app_template)
+> Different view and menu based on role (./app_template)
 ![Image of Admin_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_admin.png)
 ![Image of User_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_user.png)
 
