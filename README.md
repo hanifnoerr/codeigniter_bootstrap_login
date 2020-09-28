@@ -1,5 +1,5 @@
 # CodeIgniter + Bootstrap Login Template
- Multi Level User Login using CodeIgnoter and Bootstrap
+ Multi Level User Login using CodeIgniter and Bootstrap
  
 ## Preview
 > Available Role : admin and user. 
