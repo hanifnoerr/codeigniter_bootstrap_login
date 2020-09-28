@@ -1,22 +1,22 @@
 # CodeIgniter + Bootstrap Login Template
  Multi Level User Login using CodeIgnoter and Bootstrap
  
-##Preview
-> Avaiable Role : admin and user. 
+## Preview
+> Available Role : admin and user. 
 > You can add/create your own role.
 
-![Image of Login_Page](https://octodex.github.com/images/yaktocat.png)
-![Image of Admin_Page](https://octodex.github.com/images/yaktocat.png)
-![Image of User_Page](https://octodex.github.com/images/yaktocat.png)
+![Image of Login_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/page_login.png)
+![Image of Admin_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/page_admin.png)
+![Image of User_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/page_user.png)
 
-##How to use
+## How to use
 1. rename this as app_template
 2. create a db from data/user.sql [app_template_db]
 3. Login
    1. admin|admin
    2. user|user
    
-#credits
-1. Login Page [Floating labels](https://getbootstrap.com/docs/4.5/examples/floating-labels/)
-http://github.com - automatic!
-[GitHub](http://github.com)
+## Credits
+1. [CodeIgniter 3.1.11](https://codeigniter.com/)
+2. Login Page - [Floating labels](https://getbootstrap.com/docs/4.5/examples/floating-labels/)
+3. Admin Theme - [SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/)
