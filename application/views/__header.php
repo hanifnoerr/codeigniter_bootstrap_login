@@ -78,8 +78,9 @@
       <hr class="sidebar-divider">
 
       <!-- Heading -->
+	  <?php if($this->session->userdata('role')==='administrator'){ ?>
       <div class="sidebar-heading">
-        Options
+        Options <!-- visible only for admin -->
       </div>
 
       <!-- Nav Item - User Management -->
@@ -98,6 +99,7 @@
 
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
+	  <?php } else { } ?>
 
       <!-- Sidebar Toggler (Sidebar) -->
       <div class="text-center d-none d-md-inline">
