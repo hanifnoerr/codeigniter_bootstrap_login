@@ -5,9 +5,9 @@
 > Available Role : admin and user. 
 > You can add/create your own role.
 
-![Image of Login_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/page_login.png)
-![Image of Admin_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/page_admin.png)
-![Image of User_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/page_user.png)
+![Image of Login_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_login.png)
+![Image of Admin_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_admin.png)
+![Image of User_Page](https://github.com/hanifnoerr/codeigniter_bootstrap_login/blob/master/data/page_user.png)
 
 ## How to use
 1. rename this as app_template
